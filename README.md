@@ -1,4 +1,4 @@
-# 📃 Microverse Assignment: Clone of Youtube website
+# 📃 Microverse Assignment: Mint's signup form
 This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
 We've created a copy of Mint's.com signup form in order to practice the HTML/CSS forms building.
